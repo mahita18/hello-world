@@ -1,3 +1,4 @@
 # hello-world
 tutorial step 1
-Hi there, it's Mahita!
+Hi, it's Mahita!
+I like pizza! :)
